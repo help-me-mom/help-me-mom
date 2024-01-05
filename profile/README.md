@@ -1,1 +1,1 @@
-It's all about `Angular` nad `ng-mocks`
+It's all about `Angular` and `ng-mocks`
