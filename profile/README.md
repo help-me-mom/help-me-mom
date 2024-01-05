@@ -1,1 +1,1 @@
-It's all about `Angular` and `ng-mocks`
+It's all about development and to make developers' lives easier.
